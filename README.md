@@ -18,8 +18,8 @@ Este projeto é uma aplicação mobile desenvolvida com React Native, que permit
 
 1. Clone o repositório:
 ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <PASTA_DO_PROJETO>
+   git clone https://github.com/Markos-Vini/mapMark.git
+   cd mapMark
 ```
 
 2. Instale as dependências do projeto: Certifique-se de ter o Node.js e o Expo CLI instalados na máquina.
