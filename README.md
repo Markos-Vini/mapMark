@@ -29,7 +29,7 @@ Este projeto é uma aplicação mobile desenvolvida com React Native, que permit
 
 3. Inicie o projeto:
 ```bash
-   nexpo start
+   npm expo start
 ```
 
 ## Configuração
